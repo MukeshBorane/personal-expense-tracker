@@ -1,0 +1,50 @@
+[
+    {
+        "transaction_id": 2,
+        "transaction_type": "Income",
+        "amount": 3000,
+        "category": "Other",
+        "description": "Pocket money",
+        "date": "14-11-2026"
+    },
+    {
+        "transaction_id": 4,
+        "transaction_type": "Income",
+        "amount": 2000.0,
+        "category": "pocketmoney",
+        "description": "other",
+        "date": "17-11-2026"
+    },
+    {
+        "transaction_id": 5,
+        "transaction_type": "Income",
+        "amount": 2000.0,
+        "category": "Food",
+        "description": "lunch",
+        "date": "22-11-2026"
+    },
+    {
+        "transaction_id": 6,
+        "transaction_type": "Income",
+        "amount": 2000.0,
+        "category": "Pocketmoney",
+        "description": "something",
+        "date": "22-12-2026"
+    },
+    {
+        "transaction_id": 7,
+        "transaction_type": "Income",
+        "amount": 1000.0,
+        "category": "Food",
+        "description": "lunch",
+        "date": "22-11-2026"
+    },
+    {
+        "transaction_id": 8,
+        "transaction_type": "Expense",
+        "amount": 2000.0,
+        "category": "Food",
+        "description": "lunch",
+        "date": "22-11-2026"
+    }
+]

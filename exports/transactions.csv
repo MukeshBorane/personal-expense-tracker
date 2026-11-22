@@ -1,0 +1,7 @@
+transaction_id,transaction_type,amount,category,description,date
+2,Income,3000,Other,Pocket money,14-11-2026
+4,Income,2000.0,pocketmoney,other,17-11-2026
+5,Income,2000.0,Food,lunch,22-11-2026
+6,Income,2000.0,Pocketmoney,something,22-12-2026
+7,Income,1000.0,Food,lunch,22-11-2026
+8,Expense,2000.0,Food,lunch,22-11-2026
